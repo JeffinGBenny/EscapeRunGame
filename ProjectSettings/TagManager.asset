@@ -13,11 +13,11 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
-  - 
-  - 
+  - background
+  - Collectible
+  - Platform
+  - sprite
+  - Finish
   - 
   - 
   - 
